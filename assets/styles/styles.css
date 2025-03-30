@@ -205,9 +205,9 @@ nav {
 
 /** hero section **/
 .hero {
-  height: 90vh;
+  height: 100vh;
   display: flex;
-  padding-top: 8rem;
+  padding-top: 5rem;
 }
 
 .hero__container {
